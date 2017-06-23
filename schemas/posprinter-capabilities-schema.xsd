@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="create-json.xslt"?>
 <xs:schema  xmlns:tns="http://www.omg.org/retail/upos/" elementFormDefault="qualified"
           targetNamespace="http://www.omg.org/retail/upos/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
